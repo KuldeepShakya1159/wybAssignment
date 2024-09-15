@@ -1,0 +1,33 @@
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    /* background-color: aqua; */
+    margin-top: 80px;
+}
+
+.howitworks{
+    margin-top: 20px;
+}
+
+.inputcontrols{
+    display: flex;
+    gap: 10px;
+    
+}
+input{
+    padding:5px;
+        
+}
+
+span{
+    font-size: 15px;
+    font-family: "poppins";
+    font-weight: 100;
+
+}
+.servermessage{
+    width: 80vw;
+}
